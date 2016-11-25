@@ -1,0 +1,178 @@
+body {
+  margin: 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%; }
+
+.slide {
+  background-image: url(https://unsplash.it/1600/500?image=1067);
+  background-repeat: no-repeat;
+  width: 100.000em;
+  height: 33.5em; }
+
+.buttonSearch {
+  background-color: #F16B6F;
+  border: 0.063em solid grey;
+  border: none;
+  height: 2.500em;
+  border-radius: 0.625em;
+  width: 8.750em;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #FFF;
+  font-size: 1.250em; }
+
+.searchSelect {
+  font-size: 1.250em;
+  border: none;
+  background-color: transparent;
+  font-family: Helvetica, Arial, sans-serif;
+  color: grey; }
+
+.inputSearch {
+  font-size: 1.250em;
+  border: none;
+  margin-left: 0.188em; }
+
+.header {
+  position: absolute; }
+
+.menu {
+  position: absolute; }
+
+.searchdivleft {
+  float: left;
+  font-family: Helvetica, Arial, sans-serif;
+  color: grey;
+  text-decoration: none;
+  border-right: 0.063em solid grey;
+  height: 7.875em; }
+
+.searchdivright {
+  float: left;
+  font-family: Helvetica, Arial, sans-serif;
+  color: grey;
+  text-decoration: none;
+  border-left: 0.063em solid grey;
+  height: 7.875em; }
+
+.images {
+  margin-left: 12.500em;
+  float: left; }
+
+.image {
+  margin-left: 1.875em;
+  margin: 0.500em; }
+
+.search {
+  width: 68em;
+  margin: 0 auto;
+  border: 0.063em solid grey;
+  border-radius: 0.500em;
+  height: 7.875em; }
+
+.searchdiv {
+  float: left;
+  font-family: Helvetica, Arial, sans-serif;
+  color: grey;
+  text-decoration: none;
+  height: 6.250em; }
+
+.floatimage {
+  float: left; }
+
+.underimage {
+  color: grey;
+  font-family: Helvetica, Arial, sans-serif; }
+
+.footer {
+  width: 95em;
+  height: 13em;
+  display: inline-block;
+  border-top: 0.063em solid grey;
+  margin-top: 3em; }
+
+.footerelement {
+  float: left;
+  margin-left: 7em;
+  height: 5em; }
+
+.footerSelect {
+  margin-top: 2em;
+  width: 8em;
+  margin-left: 8em;
+  float: left; }
+
+.selectfooter {
+  background-color: transparent;
+  color: #77AAAD;
+  font-family: Helvetica, Arial, sans-serif;
+  height: 2.500em;
+  border-radius: 0.625em;
+  width: 8.750em; }
+
+.footerselect2 {
+  margin-top: 3em; }
+
+.footerdiv {
+  float: left;
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 3em;
+  margin-top: 2em; }
+
+.menul {
+  float: right;
+  margin: 0;
+  height: 0.625em; }
+  .menul li:first-child {
+    float: left; }
+
+.menuli {
+  margin: 1.25em;
+  float: right;
+  list-style: none;
+  display: inline;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 0.875em; }
+
+.footer2 {
+  border-top: 0.063em solid grey;
+  text-align: center;
+  width: 80%;
+  margin: 0 auto; }
+
+.airbnbend {
+  color: #77AAAD;
+  font-family: Helvetica, Arial, sans-serif;
+  margin-left: 10em; }
+
+.footerend {
+  margin-left: -13em;
+  height: 4em; }
+
+li {
+  list-style: none;
+  color: grey; }
+
+a {
+  text-decoration: none;
+  color: grey;
+  display: inline-block; }
+
+a:hover {
+  color: #4FB0C6; }
+
+h1 {
+  color: grey;
+  text-align: center;
+  font-size: 3.125em;
+  font-family: Helvetica, Arial, sans-serif;
+  margin-top: -3em; }
+
+h3 {
+  font-family: Helvetica, Arial, sans-serif;
+  color: grey; }
+
+h4 {
+  margin-left: 0.188em; }
+
+/*# sourceMappingURL=styles.css.map */
